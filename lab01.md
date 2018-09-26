@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 请将标题写在这里
+title: 关于《Fate/Zero》中世界观
 ---
 
 # 关于《Fate/Zero》中世界观
