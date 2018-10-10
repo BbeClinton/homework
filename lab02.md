@@ -46,4 +46,4 @@
 
  现在，让我们试试这个游戏吧！
 
-![](\images\fdgdfgfd.gif)
+![](\images\sfsdfd\.gif)
