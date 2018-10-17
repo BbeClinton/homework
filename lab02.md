@@ -46,4 +46,8 @@
 
  现在，让我们试试这个游戏吧！
 
+<<<<<<< HEAD
 ![](\images\sfsdfd.gif)
+=======
+![](images/sfsdfd.gif)
+>>>>>>> 14c633e0e35d22210fe7210f2f795693af60c528
